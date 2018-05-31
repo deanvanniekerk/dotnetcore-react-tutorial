@@ -1,0 +1,11 @@
+C:\_repository\C#\alchemylab\bin\Debug\netcoreapp2.0\alchemylab.deps.json
+C:\_repository\C#\alchemylab\bin\Debug\netcoreapp2.0\alchemylab.runtimeconfig.json
+C:\_repository\C#\alchemylab\bin\Debug\netcoreapp2.0\alchemylab.runtimeconfig.dev.json
+C:\_repository\C#\alchemylab\bin\Debug\netcoreapp2.0\alchemylab.dll
+C:\_repository\C#\alchemylab\bin\Debug\netcoreapp2.0\alchemylab.pdb
+C:\_repository\C#\alchemylab\obj\Debug\netcoreapp2.0\alchemylab.csprojAssemblyReference.cache
+C:\_repository\C#\alchemylab\obj\Debug\netcoreapp2.0\alchemylab.csproj.CoreCompileInputs.cache
+C:\_repository\C#\alchemylab\obj\Debug\netcoreapp2.0\alchemylab.AssemblyInfoInputs.cache
+C:\_repository\C#\alchemylab\obj\Debug\netcoreapp2.0\alchemylab.AssemblyInfo.cs
+C:\_repository\C#\alchemylab\obj\Debug\netcoreapp2.0\alchemylab.dll
+C:\_repository\C#\alchemylab\obj\Debug\netcoreapp2.0\alchemylab.pdb
